@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AthillaZaidan/otw-kerja/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/AthillaZaidan/otw-kerja/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AthillaZaidan/otw-kerja/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AthillaZaidan/otw-kerja/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AthillaZaidan/otw-kerja/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
